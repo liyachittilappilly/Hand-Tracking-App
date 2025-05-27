@@ -6,7 +6,7 @@ This Python project uses **OpenCV** and **MediaPipe** to detect and track hands 
 
 ## 📸 Demo
 
-[https://github.com/your-username/your-repo-name/assets/demo-hand-tracking.mp4](https://github.com/your-username/your-repo-name/assets/demo-hand-tracking.mp4)
+[https://github.com/liyachittilappilly/Hand-Tracking-App/blob/main/1748324324069.mp4)]
 
 <!-- Replace this with a screen recording or GIF link -->
 

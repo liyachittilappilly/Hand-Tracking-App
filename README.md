@@ -101,5 +101,5 @@ detector = HandDetector(maxHands=1, detectionConf=0.7, trackingConf=0.7)
 
 ## 🙌 Acknowledgements
 
-Special thanks to [AI with Noor]((https://youtu.be/gko4WnAgzz4?feature=shared)) for the tutorial inspiration.
+Special thanks to [AI with Noor] [(https://youtu.be/gko4WnAgzz4?feature=shared)] for the tutorial inspiration.
 

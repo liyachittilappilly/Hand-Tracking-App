@@ -101,14 +101,5 @@ detector = HandDetector(maxHands=1, detectionConf=0.7, trackingConf=0.7)
 
 ## 🙌 Acknowledgements
 
-Special thanks to [Murtaza's Workshop](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI) for the tutorial inspiration.
+Special thanks to [AI with Noor]((https://youtu.be/gko4WnAgzz4?feature=shared)) for the tutorial inspiration.
 
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you’d like a `requirements.txt`, a GIF demo, or to package it as a module.
